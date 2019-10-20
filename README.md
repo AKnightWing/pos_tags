@@ -1,5 +1,6 @@
 # pos_tags
 A Python3 program I wrote for an assignment of a course called HSS 322: Computational Linguistics on POS Tags.
+You can view the PDF assignment in the repository.
 
 
 ## Prerequisites
