@@ -2,6 +2,12 @@
 A Python3 program I wrote for an assignment of a course called HSS 322: Computational Linguistics on POS Tags.
 You can view the PDF assignment in the repository.
 
+# Important Note
+The repository contains two .py files:
+    pos.py is the main file to be run, and is based on the algorithm discussed in the BONUS question.
+    alt.py is the alternate variant, which doesn’t use the algorithm discussed in the BONUS question.
+
+Please run pos.py for the best output.
 
 ## Prerequisites
 
