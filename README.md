@@ -24,7 +24,7 @@ python pos.py
 ```
 
 ## Github Link
-https://github.com/siddharthchaini/pos_tags
+https://github.com/siddharthchaini/pos_tags/
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
